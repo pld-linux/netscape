@@ -11,7 +11,7 @@ Epoch:		1
 License:	distributable
 Group:		X11/Applications/Networking
 Source0:	http://ftp.netscape.com/pub/netscape7/english/%{version}/unix/linux/netscape-i686-pc-linux-gnu-installer.tar.gz
-# Source0-md5:	e131bf86a7ef03dc31e502a3184c9f56
+# Source0-md5:	efd8a18d7de982511c5fe16b51e08936
 Source2:	%{name}.sh
 Source3:	%{name}-communicator.desktop
 Source4:	%{name}-navigator.desktop
