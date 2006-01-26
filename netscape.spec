@@ -28,6 +28,7 @@ Source18:	Netscape.ad.zh_CN
 Source19:	Netscape.ad.zh_TW
 BuildRequires:	compat-libstdc++-2.9
 Requires:	lesstif
+Provides:	wwwbrowser
 ExclusiveArch:	%{ix86} ppc
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
